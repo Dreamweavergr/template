@@ -3,7 +3,9 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Read the Docs Template's documentation!
+ΟΔΗΓΙΕΣ ΓΙΑ ΤΗ ΣΥΜΠΛΗΡΩΣΗ ΣΤΟΙΧΕΙΩΝ
+ΠΟΥ ΑΠΑΙΤΟΥΝΤΑΙ ΓΙΑ ΤΗ ΔΗΜΙΟΥΡΓΙΑ
+ΗΛΕΚΤΡΟΝΙΚΟΥ ΚΑΤΑΣΤΗΜΑΤΟΣ:
 ==================================================
 
 Contents:
